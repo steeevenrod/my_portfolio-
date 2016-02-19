@@ -1,0 +1,47 @@
+
+
+.top-navigation {
+  background-color: #fff;
+}
+
+.top-navigation > .content {
+  height: 4.375rem;
+}
+
+.content {
+  padding: 0px 15px;
+  width: 60rem;
+  margin: 0 auto;
+}
+
+.top-navigation .links {
+  font-family: 'Roboto', sans-serif;
+  font-size: 16px;
+  color: #838994;
+  margin-top: 25px;
+}
+
+.top-navigation .links li {
+  display: inline-block;
+  margin-left: 25px;
+}
+
+.top-navigation .links > .active {
+  color: #4c5058;
+  font-weight: 500;
+}
+
+.introduction-intro {
+  background-image: url(http://i666.photobucket.com/albums/vv24/stevenrod9/photo-1439737567250-e9ea931e97a4_zpsop0ex6h1.jpg?t=1451959971);
+  background-position: center bottom;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 45.938rem;
+}
+.content-intro h1{
+	font-size: 3.125rem;
+}
+.content-intro h3 {
+  font-size: 1.563rem;
+  
+}
